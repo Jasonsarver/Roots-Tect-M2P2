@@ -1,0 +1,82 @@
+.btn-lg { 
+    border-radius: 50%; 
+    background-color: yellowgreen; 
+    border-color: yellowgreen;}
+.heading-content {
+    background-image: url(images/rainforest.jpg);
+    height: 100vh;
+    width: 100vw;
+}
+.middle-content {
+    background-color: yellowgreen;
+    padding: 50px;
+}
+
+h2,h3,p,button {
+    font-family: inherit;
+}
+.content-3{
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.content-4 {
+    background-color: rgb(37, 37, 37);
+    padding: 50px;
+}
+
+.bottom-content {
+    background-color: yellowgreen;
+    padding: 50px;
+}
+.content-5 {
+    color: white;
+  
+}
+
+.unleash {
+background-image: url(images/unleash.jpg);
+height: 33vh;
+width: 100vw;
+background-repeat: no-repeat;
+padding-top: 83px;
+
+}
+.synergize {
+background-image: url(images/synergize.jpg);
+height: 33vh;
+width: 100vw;
+background-repeat: no-repeat;
+padding-top: 83px;
+
+}
+.procrastinate {
+background-image: url(images/procrastinate.jpg);
+height: 33vh;
+width: 100vw;
+background-repeat: no-repeat;
+padding-top: 83px;
+
+
+}
+.engage {
+    padding-top: 350px;
+}
+
+footer {
+    padding: 25px;
+}
+
+.sanity {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.zoom:hover{
+    transform: scale(1.2);
+}
+
+.toggler-icon {
+    background-color: black;
+}
